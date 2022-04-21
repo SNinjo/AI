@@ -1,4 +1,4 @@
-# MachineLearing
+# Artificial intelligence
 Here are some simple programs, my first step before getting to know more about AI.
 
 ## Operating Example
